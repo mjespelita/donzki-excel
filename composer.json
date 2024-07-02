@@ -1,0 +1,19 @@
+{
+    "name": "donzki/donzki-excel",
+    "description": "Make excel export easy",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Donzki\\DonzkiExcel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mark Jason Espelita",
+            "email": "mark.medivadigital@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
