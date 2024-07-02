@@ -6,7 +6,7 @@ namespace Donzki\DonzkiExcel;
  * Export data to MS Excel. PHP XLSX generator
  * Author: codexworld.com@gmail.com
  */
-class PhpXlsxGenerator
+class DonzkiExcel
 {
     public $curSheet;
     protected $defaultFont;
